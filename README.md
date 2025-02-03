@@ -22,13 +22,18 @@ I'm a 19-year-old passionate developer with a strong interest in backend develop
 
 ## 🌟 Notable Projects
 
-### [**FiveM Scripting Projects**]
-- Custom scripts and mods for FiveM servers, improving gameplay experiences.
-- Skills: **Lua**, **Server-side scripting**.
+### **FiveM Scripting Projects**
+- I have experience working on **FiveM scripting** for custom servers.
+- Worked on **back-end projects**, creating scripts like:
+  - **Banking scripts** for handling transactions and player accounts.
+  - **Factory systems** for in-game production mechanics.
+  - **Discord role APIs** for integrating server activities with Discord.
+- All projects were developed using the **vRP2 framework** for FiveM, enhancing server functionality and gameplay experiences.
 
-### [**Python Backend Learning**]
-- A collection of my Python projects and tutorials as I build my backend development skills.
-- Technologies used: **Python**, **Flask**.
+### **Python Backend Development**
+- Currently building my skills in **Python** for back-end development.
+- Have worked on various backend systems using **Flask** and other related technologies.
+- Focus on creating robust and efficient server-side scripts.
 
 ## 📫 Let's Connect!
 - **GitHub**: [IanisCatalin15](https://github.com/IanisCatalin15)
