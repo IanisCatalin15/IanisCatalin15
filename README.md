@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**IanisCatalin15/IanisCatalin15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Ianis Catalin 👋
 
-Here are some ideas to get you started:
+I'm a 19-year-old passionate developer with a strong interest in backend development, game modding, and API integrations. I’m currently learning **Python** to become a backend developer and open to new job opportunities in the tech field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- 🎓 19 years old, currently studying **International Relations**.
+- 💼 Actively looking for job opportunities in **technology and development**.
+- 🎮 Experienced in **FiveM scripting** (Game development & modding).
+- 🖥️ Currently learning **Python** and aiming to become a **Back-End Developer**.
+  
+## 🚀 Tech Interests
+- Backend development
+- API integrations
+- Server-side scripting
+- Game development & modding
+
+## 🛠️ Technologies & Tools
+- **Languages**: Python, Lua, JavaScript
+- **Tools**: Git, Docker
+- **Game Development**: FiveM, Lua scripting
+
+## 🌟 Notable Projects
+
+### [**FiveM Scripting Projects**](https://github.com/IanisCatalin15/FiveM-Scripting)
+- Custom scripts and mods for FiveM servers, improving gameplay experiences.
+- Skills: **Lua**, **Server-side scripting**.
+
+### [**Python Backend Learning**](https://github.com/IanisCatalin15/Python-Backend)
+- A collection of my Python projects and tutorials as I build my backend development skills.
+- Technologies used: **Python**, **Flask**.
+
+## 📫 Let's Connect!
+- **GitHub**: [IanisCatalin15](https://github.com/IanisCatalin15)
+- **Email**: [ianiscatalin15@gmail.com](mailto:ianiscatalin15@gmail.com)
+- **LinkedIn**: [Ianis Catalin](https://www.linkedin.com/in/ianiscatalin/) (Add link here if available)
+
+## 📈 GitHub Stats
+![Ianis Catalin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IanisCatalin15&show_icons=true&theme=radical)
+
+## 💬 Fun Facts
+- I love working on backend systems and creating immersive gaming experiences through scripting.
+- I'm always eager to learn new technologies and tools to improve my skills.
+
+
