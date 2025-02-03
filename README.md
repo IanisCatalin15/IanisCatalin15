@@ -16,24 +16,24 @@ I'm a 19-year-old passionate developer with a strong interest in backend develop
 - Game development & modding
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, Lua, JavaScript
+- **Languages**: Python, Lua, JavaScript, Swift
 - **Tools**: Git, Docker
 - **Game Development**: FiveM, Lua scripting
 
 ## 🌟 Notable Projects
 
-### [**FiveM Scripting Projects**](https://github.com/IanisCatalin15/FiveM-Scripting)
+### [**FiveM Scripting Projects**]
 - Custom scripts and mods for FiveM servers, improving gameplay experiences.
 - Skills: **Lua**, **Server-side scripting**.
 
-### [**Python Backend Learning**](https://github.com/IanisCatalin15/Python-Backend)
+### [**Python Backend Learning**]
 - A collection of my Python projects and tutorials as I build my backend development skills.
 - Technologies used: **Python**, **Flask**.
 
 ## 📫 Let's Connect!
 - **GitHub**: [IanisCatalin15](https://github.com/IanisCatalin15)
 - **Email**: [ianiscatalin15@gmail.com](mailto:ianiscatalin15@gmail.com)
-- **LinkedIn**: [Ianis Catalin](https://www.linkedin.com/in/ianiscatalin/) (Add link here if available)
+- **LinkedIn**: [Ianis Catalin](https://www.linkedin.com/in/avram-ianis-catalin15/)
 
 ## 📈 GitHub Stats
 ![Ianis Catalin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IanisCatalin15&show_icons=true&theme=radical)
