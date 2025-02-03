@@ -28,12 +28,15 @@ I'm a 19-year-old passionate developer with a strong interest in backend develop
   - **Banking scripts** for handling transactions and player accounts.
   - **Factory systems** for in-game production mechanics.
   - **Discord role APIs** for integrating server activities with Discord.
+  - **Jobs scripts** for creating various player roles and responsibilities within the game.
+  - **Vehicle licenses scripts** for managing vehicle ownership and licensing systems.
 - All projects were developed using the **vRP2 framework** for FiveM, enhancing server functionality and gameplay experiences.
 
 ### **Python Backend Development**
 - Currently building my skills in **Python** for back-end development.
 - Have worked on various backend systems using **Flask** and other related technologies.
 - Focus on creating robust and efficient server-side scripts.
+
 
 ## 📫 Let's Connect!
 - **GitHub**: [IanisCatalin15](https://github.com/IanisCatalin15)
