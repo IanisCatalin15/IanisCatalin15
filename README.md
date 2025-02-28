@@ -25,15 +25,14 @@ I'm a 19-year-old developer from Bucharest, Romania, with a passion for backend 
 
 ## 📝 Latest Projects
 
-- **[Project Name](https://github.com/IanisCatalin15/project-repo)**: Brief description of the project.
-- **[Another Project](https://github.com/IanisCatalin15/another-project-repo)**: Brief description of this project.
+- **[Project Name]([https://github.com/IanisCatalin15/project-repo](https://github.com/vRP-framework))**: FiveM RP addon/framework
 
 ## 🎮 FiveM Contributions
 
 I've been actively involved in FiveM scripting, contributing to various game development and modding projects. Check out some of my work:
 
-- **[FiveM Script 1](https://github.com/IanisCatalin15/fivem-script-1)**: Description of the script.
-- **[FiveM Script 2](https://github.com/IanisCatalin15/fivem-script-2)**: Description of this script.
+- **[FiveM Script Banking]([https://github.com/IanisCatalin15/fivem-script-1](https://github.com/IanisCatalin15/vrp_advance_banking))**: An advance banking.
+- **[FiveM Script Parking]([https://github.com/IanisCatalin15/fivem-script-2](https://github.com/IanisCatalin15/vrp_parking/))**: The latest script, still under development
 
 ## 🌱 Currently Learning
 
