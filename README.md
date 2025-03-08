@@ -14,7 +14,7 @@ I'm a 19-year-old passionate developer with a strong interest in backend develop
 - Game development & modding
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, Lua, JavaScript, Swift
+- **Languages**: Python, Lua, JavaScript, Swift, SwiftUI, php, sql
 - **Tools**: Git, Docker
 - **Game Development**: FiveM, Lua scripting
 
