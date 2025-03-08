@@ -33,7 +33,6 @@ I'm a 19-year-old passionate developer with a strong interest in backend develop
 ### **Python Backend Development**
 - Currently building my skills in **Python** for back-end development.
 - Have worked on various backend systems using **Flask** and other related technologies.
-- Focus on creating robust and efficient server-side scripts.
 
 
 ## 📫 Let's Connect!
@@ -41,9 +40,3 @@ I'm a 19-year-old passionate developer with a strong interest in backend develop
 - **Email**: [ianiscatalin15@gmail.com](mailto:ianiscatalin15@gmail.com)
 - **LinkedIn**: [Ianis Catalin](https://www.linkedin.com/in/avram-ianis-catalin15/)
 
-## 📈 GitHub Stats
-![Ianis Catalin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IanisCatalin15&show_icons=true&theme=radical)
-
-## 💬 Fun Facts
-- I love working on backend systems and creating immersive gaming experiences through scripting.
-- I'm always eager to learn new technologies and tools to improve my skills.
