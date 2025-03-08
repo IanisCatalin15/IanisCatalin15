@@ -6,7 +6,6 @@ I'm a 19-year-old passionate developer with a strong interest in backend develop
 - 🎓 19 years old, currently studying **International Relations**.
 - 💼 Actively looking for job opportunities in **technology and development**.
 - 🎮 Experienced in **FiveM scripting** (Game development & modding).
-- 🖥️ Currently learning **Python** and aiming to become a **Back-End Developer**.
   
 ## 🚀 Tech Interests
 - Backend development
