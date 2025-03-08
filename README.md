@@ -1,6 +1,6 @@
 # Hi there, I'm Ianis Catalin 👋
 
-I'm a 19-year-old passionate developer with a strong interest in backend development, game modding, and API integrations. I’m currently learning **Python** to become a backend developer and open to new job opportunities in the tech field.
+I'm a 19-year-old passionate developer with a strong interest in backend development, game modding, and API integrations. 
 
 ## 💡 About Me
 - 🎓 19 years old, currently studying **International Relations**.
