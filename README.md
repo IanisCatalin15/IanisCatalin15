@@ -3,7 +3,7 @@
 ---
 
 ## About Me
-I am a dedicated and detail-oriented developer with a passion for backend systems, game modding, and API integrations. With a background in International Relations and hands-on experience in billing and customer support, I bring strong analytical skills and a customer-focused mindset to every project.
+I am a dedicated and detail-oriented developer with a passion for backend systems, game modding, and API integrations.
 
 ---
 
