@@ -10,7 +10,7 @@ I am a dedicated and detail-oriented developer with a passion for backend system
 ## Technical Skills
 
 - **Languages & Frameworks**: Python (Flask), JavaScript, Lua, PHP, SQL, Swift, SwiftUI
-- **Game Modding**: FiveM scripting (vRP2/vRP3 framework) — banking systems, factory mechanics, job scripts, vehicle licensing, Discord role API
+- **Game Modding**: FiveM scripting (vRP2/vRP3 framework)
 - **Tools & Platforms**: Git, Docker, RESTful APIs, MySQL/PostgreSQL
 
 ---
